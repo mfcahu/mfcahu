@@ -28,5 +28,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Mario Ferreiro Cahuchola](AQUÍ-PON-TU-ENLACE-DE-LINKEDIN)
+- **LinkedIn:** www.linkedin.com/in/mario-ferreiro-cahuchola
 - **Email:** mfcahu@gmail.com
